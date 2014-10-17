@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nab:home|Door43 (nab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nab|d43-nab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nab/archive/master.zip|d43-nab.zip]]
+
+**Recent Changes**
+{{changes>ns = nab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nab|Ethnologue data]]
+
